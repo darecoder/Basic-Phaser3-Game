@@ -9,5 +9,5 @@
  - Create a folder "games", open terminal inside it.
  - Clone/download the repo there.
  - Go to your web browser.
- - Go to : [http://localhost/games/BasicPhaser3Game/]
+ - Go to : http://localhost/games/BasicPhaser3Game/
  - Enjoy playing the game.
